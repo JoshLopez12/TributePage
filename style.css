@@ -4,7 +4,7 @@
 body {
   width: 85%;  /*-- sets width of whole body to 85% --*/
   margin: 0 auto;  /*-- centers the whole body --*/
-  font-family: 'Montserrat', sans-serif;  /*-- sets font and fallback --*/
+  font-family: 'Roboto', sans-serif;
   background-image: url(http://www.rosemaryfarm.com/wp-content/uploads/2012/11/eggs.jpg);
 }
 figure {
